@@ -5,8 +5,7 @@ Bir projeye katkıda bulunmak oldukça basittir. İzlemeniz gereken adımlar:
 
 ![Fork etmek](https://cdn.discordapp.com/attachments/1103629924549541930/1269609540920410132/fork.png?ex=66b0af86&is=66af5e06&hm=17b44e10486ee12b631d35fa77346e382f903316af5ae7a93095f3da320b0093& "Fork Etme")
 
-- Fork ettiğiniz proje kendi hesabınıza gelecektir, bu projeyi klonlayın.
-- Eğer bilgisayarınızda Git kurulu değilse, [indirin](https://git-scm.com/download/win) ve kurun.
+- Fork ettiğiniz proje kendi hesabınıza gelecektir, bu projeyi klonlayın. (Eğer bilgisayarınızda Git kurulu değilse, [indirin](https://git-scm.com/download/win) ve kurun.)
 
 ```bash
 git clone https://github.com/[kullanıcı_adınız]/basic-base # Fork ettiğiniz projenin URL'si

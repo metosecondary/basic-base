@@ -1,5 +1,5 @@
 # Hoşgeldin!
-Bu repo'da Discord.js hakkında temel alt yapılar yazıyorum. Projeyi daha da geliştirmek istiyorsanız projeye katkıda bulunmaktan çekinmeyin.
+Bu repo'da Discord.js hakkında temel alt yapılar yazıyorum. Projeyi beğendiyseniz starlamayı unutmayın!
 
 ## Alt yapıyı nasıl kullanacağım?
 - Gerekli paketleri kurun. (npm install discord.js dotenv pyrandom)

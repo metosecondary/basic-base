@@ -9,11 +9,11 @@ Ayrıca projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
 - Gerekli paketleri kurun. (npm install discord.js dotenv pyrandom)
 - Kaynak kodunu [buradan](https://github.com/meto1558/basic-base/releases/) indirin.
 - app.js dosyasında gerekli değişiklikleri yapın. (Veya istediğiniz birşeyler ekleyin.)
-- **node app.js** yazarak botu çalıştırın.
+- ```node app.js``` yazarak botu çalıştırın.
 
 ## Projeye katkıda bulunabilir miyim?
 Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunmak istiyorsanız şu adımları izleyin:
-- **git clone https://github.com/meto1558/basic-base** komutu ile projeyi klonlayın (Bilgisayarında Git kurulu değilse [buradan](https://git-scm.com/download/win) indirebilirsiniz.)
+- ```git clone https://github.com/meto1558/basic-base``` komutu ile projeyi klonlayın (Bilgisayarında Git kurulu değilse [buradan](https://git-scm.com/download/win) indirebilirsiniz.)
 - Yaptığınız değişiklikleri Commit ve Push edin.
 - GitHub'da bu proje üzerinden açıklayıcı bir şekilde yaptığınız değişiklikler hakkında Pull Request oluşturun.
 - Pull Request'iniz proje yetkilileri tarafından incelenecektir ve onaylanacaktır. Eğer değişiklikleriniz onaylanmazsa üzülmeyin, yetkililer neden kabul etmediklerini size detaylı bir şekilde açıklayacaktır. Kendinizi geliştirmeye odaklanın ve tekrar denemekten korkmayın! Teşekkürler.

@@ -29,3 +29,5 @@ client.on("messageCreate", async (message) => {
 
 // Discord'a bağlanma
 client.login(process.env.TOKEN); // TOKEN değerini .env dosyasında kendi botunuzun tokeni ile değişmeyi unutmayın.
+
+// sa

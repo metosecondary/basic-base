@@ -1,6 +1,6 @@
 # Projeye Katkıda Bulunmak
 Bir projeye katkıda bulunmak oldukça basittir. İzlemeniz gereken adımlar:
-- Projeyi Fork edin.
+- Projeyi Fork edin. ![Fork etmek](https://imgur.com/a/kVGusZb)
 - Fork ettiğiniz proje kendi hesabınıza gelecektir, bu projeyi klonlayın.
 - Projeyi **Visual Studio Code** ile açın ve istediğiniz değişiklerine yapın.
 - Yaptğınız değişikleri **Visual Studio Code** üzerinden Commit ve Push edin.

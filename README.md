@@ -12,4 +12,4 @@ Ayrıca projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
 - ```node app.js``` yazarak botu çalıştırın.
 
 ## Projeye katkıda bulunabilir miyim?
-Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunma adımlarını öğrenmek için [bu belgeyi]() inceleyebilirsiniz.
+Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunma adımlarını öğrenmek için [bu belgeyi](https://github.com/meto1558/basic-base/blob/main/KATKIDA_BULUNMA.md) inceleyebilirsiniz.

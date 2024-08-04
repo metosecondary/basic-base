@@ -12,8 +12,4 @@ Ayrıca projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
 - ```node app.js``` yazarak botu çalıştırın.
 
 ## Projeye katkıda bulunabilir miyim?
-Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunmak istiyorsanız şu adımları izleyin:
-- ```git clone https://github.com/meto1558/basic-base``` komutu ile projeyi klonlayın (Bilgisayarında Git kurulu değilse [buradan](https://git-scm.com/download/win) indirebilirsiniz.)
-- Yaptığınız değişiklikleri Commit ve Push edin.
-- GitHub'da bu proje üzerinden açıklayıcı bir şekilde yaptığınız değişiklikler hakkında Pull Request oluşturun.
-- Pull Request'iniz proje yetkilileri tarafından incelenecektir ve onaylanacaktır. Eğer değişiklikleriniz onaylanmazsa üzülmeyin, yetkililer neden kabul etmediklerini size detaylı bir şekilde açıklayacaktır. Kendinizi geliştirmeye odaklanın ve tekrar denemekten korkmayın! Teşekkürler.
+Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunma adımlarını öğrenmek için [bu belgeyi]() inceleyebilirsiniz.

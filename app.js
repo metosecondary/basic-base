@@ -25,7 +25,7 @@ client.on("messageCreate", async (message) => {
     if (message.author.bot) return; // Botlardan gelen mesajları işlemiyoruz
 
     if (message.content.startsWith("!selam")) {
-        await message.reply("Merhaba!");
+        await message.reply("Test!");
     }
 });
 

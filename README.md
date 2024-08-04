@@ -12,7 +12,7 @@ Ayrıca projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
 - **node app.js** yazarak botu çalıştırın.
 
 ## Projeye katkıda bulunabilir miyim?
-Elbette! Projeye katkıda bulunarak bu alt yapının daha efektik ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunmak istiyorsanız şu adımları izleyin:
+Elbette! Projeye katkıda bulunarak bu alt yapının daha efektif ve gelişmiş olmasına yardımcı olabilirsiniz. Projeye katkıda bulunmak istiyorsanız şu adımları izleyin:
 - **git clone https://github.com/meto1558/basic-base** komutu ile projeyi klonlayın (Bilgisayarında Git kurulu değilse [buradan](https://git-scm.com/download/win) indirebilirsiniz.)
 - Yaptığınız değişiklikleri Commit ve Push edin.
 - GitHub'da bu proje üzerinden açıklayıcı bir şekilde yaptığınız değişiklikler hakkında Pull Request oluşturun.

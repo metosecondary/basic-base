@@ -2,7 +2,7 @@
 Bu repo'da Discord.js hakkında temel alt yapılar yazıyorum.
 Python ve Java/Kotlin ile ilgili alt yapılarda hazırlayacağım, ilgileniyorsanız bakabilirsiniz.
 Projeyi kullanmak veya katkıda bulunmak için **Visual Studio Code** öneriyorum. [Buradan](https://code.visualstudio.com/download) indirebilirsiniz.
-Projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
+Ayrıca projeyi beğendiyseniz starlamayı unutmayın! Başarılar.
 
 ## Alt yapıyı nasıl kullanacağım?
 - Node.js'i indirin ve kurun. (https://nodejs.org/en)

@@ -22,6 +22,8 @@ client.once("ready", () => {
 Message sınıfının özelliklerini Discord.js v14 dökümanlarında bulabilirsiniz: https://discord.js.org/docs/packages/discord.js/14.15.3/Message:Class
 */
 client.on("messageCreate", async (message) => {
+    if (message.author.bot) return; // Botlardan gelen mesajları işlemiyoruz
+
     if (message.content.startsWith("!selam")) {
         await message.reply("Merhaba!");
     }

@@ -17,14 +17,14 @@ git clone https://github.com/[kullanıcı_adınız]/basic-base # Fork ettiğiniz
 
 ![Projeyi açmak](https://cdn.discordapp.com/attachments/1103629924549541930/1269612956908261386/proje.png?ex=66b0b2b5&is=66af6135&hm=81cfdfb5765bcf5c7e88d92e2a01c0d1f4e8be5b03cbaefdb2c708f07aece27a& "Projeyi açma")
 
-- Yaptğınız değişikleri **Visual Studio Code** üzerinden Commit ve Push edin.
+- Yaptğınız değişiklikleri **Visual Studio Code** üzerinden Commit ve Push edin.
 - Commit işlemi:
 
 ![Değişiklik ekleme](https://cdn.discordapp.com/attachments/1103629924549541930/1269616142641664010/commit.png?ex=66b0b5ac&is=66af642c&hm=1dd3f37de3fb49bb3fa599eab5ead21967f3967b68b19b1e798e62fe36bb4074&)
 
 ![Commit işlemi](https://cdn.discordapp.com/attachments/1103629924549541930/1269616729986699354/commit2.png?ex=66b0b638&is=66af64b8&hm=4d818f1bb1fddda320abb24137c8977c3cfd65cb7694a552d638cdf8f19a009e&)
 
-- Push işlemi (Commit edilmiş değişiklerine depoya gönderme):
+- Push işlemi (Commit edilmiş değişikliklerine depoya gönderme):
 
 ![Push işlemi](https://cdn.discordapp.com/attachments/1103629924549541930/1269618661610623086/push.png?ex=66b0b805&is=66af6685&hm=de49ac4a8d9ef27c055187ea66fc37497eb54e8bce0a276927afdcd848d370b8&)
 
